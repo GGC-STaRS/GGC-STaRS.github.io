@@ -3,7 +3,7 @@ name: Publish to gh-pages branch with archives
 on: 
   push:
     branches:
-      - no-github-actions
+      - master
 
 jobs:
   build:
