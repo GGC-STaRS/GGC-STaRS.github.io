@@ -3,7 +3,7 @@ name: Publish to gh-pages branch with archives
 on: 
   push:
     branches:
-      - master
+      - github-actions
 
 jobs:
   build:
@@ -31,6 +31,16 @@ jobs:
 
     - name: Remove archive git repo ❌
       run: rm -rf _site/archive-stars2021/.git
+
+    - name: Checkout 2022 archive branch 🛎️
+      uses: actions/checkout@v3
+      with:
+        ref: gh-pages-stars2022
+        path: _site/archive-stars2022
+        submodules: 'true'
+
+    - name: Remove archive git repo ❌
+      run: rm -rf _site/archive-stars2022/.git
 
     - name: Push to gh-pages branch 🚀
       run: |
