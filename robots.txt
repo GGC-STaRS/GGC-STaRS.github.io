@@ -1,1 +1,1 @@
-Sitemap: /stars2021/sitemap.xml
+Sitemap: /archive-stars2021/sitemap.xml
