@@ -1,9 +1,9 @@
-name: Hugo
+name: Publish to gh-pages branch with archives
 
 on: 
   push:
     branches:
-      - github-actions
+      - no-github-actions
 
 jobs:
   build:
