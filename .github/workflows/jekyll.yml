@@ -1,5 +1,8 @@
 name: Build and Deploy GIT Update
-on: [push]
+on:
+  push:
+    branches:
+      - disabled
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
