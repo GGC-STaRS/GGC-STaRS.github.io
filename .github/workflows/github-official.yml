@@ -1,0 +1,51 @@
+name: Run Jekyll following official Github Actions
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: [ github-actions ] # change to master once done
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+  
+jobs:
+  build:    
+    runs-on: ubuntu-latest
+    container:
+      image: ubuntu
+      
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v3
+      
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+        
+      - name: Build only 🔧 
+        uses: actions/jekyll-build-pages@v1 # Use official action
+
+      - name: Upload site ↗️
+        uses: actions/upload-pages-artifact@v1 # official action in beta
+  
+  deploy:      
+    # Deploy to the github-pages environment
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }} 
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages 🚀
+        id: deployment
+        uses: actions/deploy-pages@v1
