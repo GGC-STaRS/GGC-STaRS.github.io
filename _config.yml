@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Welcome to STaRS 2022 @ GGC!
+title: Welcome to STaRS 2023 @ GGC!
 email: adolocmihu@ggc.edu
 author: STaRS IT subcommittee
-copyright: Copyright © 2022
+copyright: Copyright © 2023
 description: >- # this means to ignore newlines until "baseurl:"
   Georgia Gwinnett College yearly event Science Technology and Reseach Symposium (STaRS)
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
