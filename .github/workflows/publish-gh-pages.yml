@@ -20,17 +20,17 @@ jobs:
       run: git worktree add -B gh-pages _site origin/gh-pages
 
     - name: Build only 🔧 
-        uses: actions/jekyll-build-pages@v1 # Use official action
+      uses: actions/jekyll-build-pages@v1 # Use official action
 
     - name: Checkout 2021 archive branch 🛎️
-        uses: actions/checkout@v3
-        with:
-          ref: gh-pages-stars2021
-          path: _site/archive-stars2021
-          submodules: 'true'
+      uses: actions/checkout@v3
+      with:
+        ref: gh-pages-stars2021
+        path: _site/archive-stars2021
+        submodules: 'true'
 
     - name: Remove archive git repo ❌
-        run: rm -rf _site/archive-stars2021/.git
+      run: rm -rf _site/archive-stars2021/.git
 
     - name: Push to gh-pages branch 🚀
       run: |
