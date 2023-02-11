@@ -6,6 +6,8 @@ index.html contains the layout (stars2022)
 
 posters.md contains the posters and layouts, as of now it interfaces with 2021 posters (site.data.stars2021.posters)
 
+archives.md is the archive of the 2021 site
+
 
 to run: bundle exec jekyll serve
 open local tab: http://127.0.0.1:4000/

@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: /archive-stars2022/sitemap.xml
