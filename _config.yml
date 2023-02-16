@@ -45,7 +45,7 @@ header_pages:
 # Page default value
 defaults:
   home:
-      heading: "STaRS 2022 is on April 14th, 10am-3pm"
+      heading: "STaRS 2023 is on April 13th, 12pm-3:15pm"
       subheading: "Welcome to the Science Technology and Research Symposium (STaRS) organized by the School of Science and Technology at Georgia Gwinnett College"
       banner: "/assets/images/stars-logo-green-right.png"
 
