@@ -22,8 +22,6 @@ concurrency:
 jobs:
   build:    
     runs-on: ubuntu-latest
-    #container:
-    #  image: ubuntu
       
     steps:
       - name: Checkout 🛎️
@@ -32,9 +30,6 @@ jobs:
           fetch-depth: 0
           submodules: 'true'
 
-      - name: create worktree under _site
-        run: git worktree add -B gh-pages _site origin/gh-pages
-        
       - name: Setup Pages
         uses: actions/configure-pages@v3
         
@@ -49,7 +44,6 @@ jobs:
           submodules: 'true'
 
       - name: Remove archive git repo ❌
-        run: rm -rf _site/archive-stars2021/.git
 
       - name: Checkout 2022 archive branch 🛎️
         uses: actions/checkout@v3
@@ -59,7 +53,7 @@ jobs:
           submodules: 'true'
 
       - name: Remove archive git repo ❌
-        run: rm -rf _site/archive-stars2022/.git
+        run: rm -rf _site/archive-stars202?/.git
 
       - name: Upload site ↗️
         uses: actions/upload-pages-artifact@v1 # official action in beta
