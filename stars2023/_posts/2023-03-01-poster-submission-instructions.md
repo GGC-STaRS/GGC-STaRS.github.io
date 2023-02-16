@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "STaRS Poster Submission Instructions"
+title:  "2023 STaRS Poster Submission Instructions"
 categories: update
 ---
 
