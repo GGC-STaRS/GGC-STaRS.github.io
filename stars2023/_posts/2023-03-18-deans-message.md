@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dean's Message"
+title:  "Dean's Message 2023"
 categories: update
 ---
 
@@ -8,7 +8,7 @@ Dear Colleagues,
 
 
 
-Since arriving at GGC, I have heard so much about the tradition of the School of Science and Technology's annual, signature celebration of scholarship in the sciences:  STaRS.  I have seen photographs from past events, and I am excited to participate in my very first STaRS on April 14th.
+Since arriving at GGC, I have heard so much about the tradition of the School of Science and Technology's annual, signature celebration of scholarship in the sciences:  STaRS.  I have seen photographs from past events, and I am excited to participate in my very first STaRS on April 13th.
 
 
 
