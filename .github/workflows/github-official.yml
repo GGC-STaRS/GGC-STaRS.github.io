@@ -49,6 +49,7 @@ jobs:
           ref: gh-pages-stars2022
           path: _site/archive-stars2022
           submodules: 'true'
+        run: mkdir _site
 
       - name: Remove archive git repo ❌
         run: rm -rf _site/archive-stars202?/.git
