@@ -30,6 +30,9 @@ jobs:
           fetch-depth: 0
           submodules: 'true'
 
+      - name: Create folder
+        run: mkdir _site
+
       - name: Setup Pages
         uses: actions/configure-pages@v3
         
@@ -49,7 +52,6 @@ jobs:
           ref: gh-pages-stars2022
           path: _site/archive-stars2022
           submodules: 'true'
-        run: mkdir _site
 
       - name: Remove archive git repo ❌
         run: rm -rf _site/archive-stars202?/.git
