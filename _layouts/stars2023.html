@@ -17,7 +17,7 @@ banner: "/assets/images/stars-logo-green-right3.png"
 
   {{ content }}
 
-  {% assign posts_no_posters = site.categories.stars2022 |
+  {% assign posts_no_posters = site.categories.stars2023 |
   where_exp: "post", "post.categories != 'posters'" |
   where_exp: "post", "post.categories[0] != 'posters'" |
   where_exp: "post", "post.categories[1] != 'posters'"
