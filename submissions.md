@@ -44,4 +44,4 @@ SST Faculty, please help us judging the posters by <a href= "https://forms.gle/7
 We have a tie last year for the third place. <br/>
 [Using Docking Studies to Determine Binding Interactions .... ](/stars2023/images/2022STaRSThirdPlaceTie1.pdf)   <br/>
 and <br/>
-[Creating a Digital Business Card to Share with People You Meet](/stars2023/images/2022STaRSThirdPlaceTie2.pdf)  <br/>
+[Creating a Digital Business Card to Share with People You Meet](/stars2023/images/2022STaRSThirdplaceTie2.pdf)  <br/>
