@@ -56,9 +56,7 @@ The STaRS event is organized by the [School of Science and Technology](https://w
 
 
 ### 🐻 Location of Events 🐻
-
-  ![Location 1](/assets/images/program-6.png "Location 1")
-  ![Location 2](/assets/images/program-7.png "Location 2")
+Building H2, 1st, 2nd, & 3rd floors
 
 
 
