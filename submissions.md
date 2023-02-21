@@ -15,7 +15,7 @@ permalink: /submissions/
 </li>
 
 <li>
-Step2: Submit an electronic version(PDF) of the poster to [this D2L site:] (https://ggc.view.usg.edu/d2l/home/2559976).  <br/>
+Step2: Submit an electronic version(PDF) of the poster to <a href="https://ggc.view.usg.edu/d2l/home/2559976"> this D2L site. </a> <br/>
 Note: Poster dimensions should be 48” x 36”.
 </li>
 <li>
@@ -27,7 +27,7 @@ Posters that will be printed by the faculty advisors still need to be electronic
 
 #### * Faculty/Student Activity Submission
 Please make sure that ONLY 1 member (faculty or student) of the student group, club, or organization completes the registration. <br/> 
-Register your activity [using this google form] (https://forms.gle/WSq4QG8gyEXdr6u99) by March 3rd.
+Register your activity <a href="https://forms.gle/WSq4QG8gyEXdr6u99"> using this google form </a> by March 3rd.
 
 #### * Judging Volunteers
 SST Faculty, please help us judging the posters by [completing this form] (https://forms.gle/7k9ojqU2wrimASQL9)
