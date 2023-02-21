@@ -30,7 +30,7 @@ Please make sure that ONLY 1 member (faculty or student) of the student group, c
 Register your activity <a href="https://forms.gle/WSq4QG8gyEXdr6u99"> using this google form </a> by March 3rd.
 
 #### * Judging Volunteers
-SST Faculty, please help us judging the posters by <a href= "https://forms.gle/7k9ojqU2wrimASQL9"> completing this form].</a>
+SST Faculty, please help us judging the posters by <a href= "https://forms.gle/7k9ojqU2wrimASQL9"> completing this form.</a>
 
 <h3>✨Winners of 2022 STaRS Poster Competition✨</h3>
 
