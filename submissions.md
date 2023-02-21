@@ -15,7 +15,8 @@ permalink: /submissions/
 </li>
 
 <li>
-Step2: Submit an electronic version(PDF) of the poster to [this D2L site:] (https://ggc.view.usg.edu/d2l/home/2559976).  
+Step2: Submit an electronic version(PDF) of the poster to [this D2L site:] (https://ggc.view.usg.edu/d2l/home/2559976).  <br/>
+Note: Poster dimensions should be 48” x 36”.
 </li>
 <li>
 Important Deadlines: <br>
@@ -36,10 +37,10 @@ SST Faculty, please help us judging the posters by [completing this form] (https
 [Investigating the Presence of GMO Markers P35S and CP4 EPSPS in Popular Soy Based Formulas](/stars2023/images/2022STaRSFirstPlace.pdf)   
 
 #### * Second Place
-[Second Place](/stars2023/images/2022STaRSSecondPlace.pdf) 
+[NASA_MINDS Project: Structual Analysis Using Contactless Evaluation](/stars2023/images/2022STaRSSecondPlace.pdf) 
 
 #### * Third Place
 We have a tie last year for the third place. <br/>
-[Third Place 1](/stars2023/images/2022STaRSThirdPlaceTie1.pdf)   <br/>
+[Using Docking Studies to Determine Binding Interactions .... ](/stars2023/images/2022STaRSThirdPlaceTie1.pdf)   <br/>
 
-[Third Place 2](/stars2023/images/2022STaRSThirdPlaceTie2.pdf)  <br/>
+[Creating a Digital Business Card to Share with People You Meet](/stars2023/images/2022STaRSThirdPlaceTie2.pdf)  <br/>
