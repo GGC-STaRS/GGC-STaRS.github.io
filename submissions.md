@@ -30,10 +30,10 @@ Register your activity [using this google form] (https://forms.gle/WSq4QG8gyEXdr
 #### * Judging Volunteers
 SST Faculty, please help us judging the posters by [completing this form] (https://forms.gle/7k9ojqU2wrimASQL9)
 
-<h3>✨Winners of 2022 STARS Poster Competition✨</h3>
+<h3>✨Winners of 2022 STaRS Poster Competition✨</h3>
 
 #### * First Place
-[First Place](/stars2023/images/2022STaRSFirstPlace.pdf)   
+[Investigating the Presence of GMO Markers P35S and CP4 EPSPS in Popular Soy Based Formulas](/stars2023/images/2022STaRSFirstPlace.pdf)   
 
 #### * Second Place
 [Second Place](/stars2023/images/2022STaRSSecondPlace.pdf) 
