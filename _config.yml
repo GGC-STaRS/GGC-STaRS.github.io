@@ -29,6 +29,7 @@ repository:  GGC-STaRS/GGC-STaRS.github.io  # needed for the Github Pages workfl
 header_pages:
   - index.html
   - about.md
+  - submission.md
   - schedule.md
 #  - posters.md
   - archives.md
