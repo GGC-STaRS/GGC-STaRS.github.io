@@ -11,11 +11,11 @@ permalink: /submissions/
 
 #### * Poster Submission 
 <ul>
-<li>Step1: Please register your poster <a href="https://forms.gle/iHcEvjUf77Ki2guH7"> using this google form </a> by March 15. 
+<li>Step1: Please register your poster <a href="https://forms.gle/iHcEvjUf77Ki2guH7"> using this google form </a> by March 3rd. 
 </li>
 
 <li>
-Step2: Submit an electronic version of the poster to [this D2L site:] (https://ggc.view.usg.edu/d2l/home/2559976).  
+Step2: Submit an electronic version(PDF) of the poster to [this D2L site:] (https://ggc.view.usg.edu/d2l/home/2559976).  
 </li>
 <li>
 Important Deadlines: <br>
@@ -25,7 +25,7 @@ Posters that will be printed by the faculty advisors still need to be electronic
 </ul>
 #### * Faculty/Student Activity Submission
 Please make sure that ONLY 1 member (faculty or student) of the student group, club, or organization completes the registration. <br/> 
-Register your activity [using this google form] (https://forms.gle/WSq4QG8gyEXdr6u99) by March 15.
+Register your activity [using this google form] (https://forms.gle/WSq4QG8gyEXdr6u99) by March 3rd.
 
 #### * Judging Volunteers
 SST Faculty, please help us judging the posters by [completing this form] (https://forms.gle/7k9ojqU2wrimASQL9)
