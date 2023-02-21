@@ -12,13 +12,19 @@ permalink: /submissions/
 #### * [UGA STEM Graduate Student Panel](https://aarlifesci.wixsite.com/website), [flyer](/stars2021/images/AARLS-STARS.pdf) 
 
 #### * Poster Submission 
-Step1: Please register your poster [using this google form] (https://forms.gle/iHcEvjUf77Ki2guH7) by March 15. 
-Step2: Submit an electronic version of the poster to the D2L site, https://ggc.view.usg.edu/d2l/home/2559976.  
+<ul>
+<li>Step1: Please register your poster <a href="https://forms.gle/iHcEvjUf77Ki2guH7"> using this google form. </a> by March 15. 
+</li>
 
-Important: 
-Posters that will be printed by the SST office need to be in the D2L site by 3/31/2023 @ 5pm.  
-Posters that will be printed by the faculty advisors still need to be electronically uploaded into the D2L site by 4/10/2023 @ 8am.
-
+<li>
+Step2: Submit an electronic version of the poster to the D2L site: https://ggc.view.usg.edu/d2l/home/2559976.  
+</li>
+<li>
+Important: <br>
+Posters that will be printed by the SST office need to be in the D2L site by 3/31/2023 @ 5pm.  <br>
+Posters that will be printed by the faculty advisors still need to be electronically uploaded into the D2L site by 4/10/2023 @ 8am. <br>
+</li>
+</ul>
 #### * Vector Animation Demos 
 
 Students in ITEC 2110, Digital Media, use Adobe Illustrator and Adobe Photoshop together to create vector animations. Each frame of the animation is a vector image. This is one of their class projects. Through this project, students learn basic concepts of digital images and how to use Adobe applications to create good quality vector animations.
