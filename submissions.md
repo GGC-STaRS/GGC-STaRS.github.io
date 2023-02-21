@@ -24,6 +24,7 @@ Posters that will be printed by the SST office need to be in the D2L site by 3/3
 Posters that will be printed by the faculty advisors still need to be electronically uploaded into the D2L site by 4/10/2023 @ 8am. <br>
 </li>
 </ul>
+
 #### * Faculty/Student Activity Submission
 Please make sure that ONLY 1 member (faculty or student) of the student group, club, or organization completes the registration. <br/> 
 Register your activity [using this google form] (https://forms.gle/WSq4QG8gyEXdr6u99) by March 3rd.
