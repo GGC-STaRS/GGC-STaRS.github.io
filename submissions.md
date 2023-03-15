@@ -11,7 +11,7 @@ permalink: /submissions/
 
 #### * Poster Submission 
 <ul>
-<li>Step1: Please register your poster <a href="https://forms.gle/iHcEvjUf77Ki2guH7"> using this google form </a> by March 3rd. 
+<li>Step1: Please register your poster <a href="https://forms.gle/iHcEvjUf77Ki2guH7"> using this google form </a> by March 3rd (extended to Friday March 17). 
 </li>
 
 <li>
