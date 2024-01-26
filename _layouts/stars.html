@@ -1,7 +1,7 @@
 ---
 layout: framework
 sidebar: category-list
-heading: "STaRS 2023 is on April 13,  12pm - 3:30pm"
+heading: "STaRS 2024 is on April 11,  12pm - 3pm"
 subheading: "Welcome to the Science Technology and Research Symposium (STaRS) organized by the School of Science and Technology at Georgia Gwinnett College"
 banner: "/assets/images/stars-logo-green-right3.png"
 ---
@@ -20,7 +20,7 @@ banner: "/assets/images/stars-logo-green-right3.png"
 
   {{ content }}
 
-  {% assign posts_no_posters = site.categories.stars2023 |
+  {% assign posts_no_posters = site.categories.stars2024 |
   where_exp: "post", "post.categories != 'posters'" |
   where_exp: "post", "post.categories[0] != 'posters'" |
   where_exp: "post", "post.categories[1] != 'posters'"
