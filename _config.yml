@@ -17,7 +17,7 @@ title: Welcome to STaRS 2024 @ GGC!
 email: adolocmihu@ggc.edu
 author: STaRS IT subcommittee
 copyright: Copyright © 2024
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "url:"
   Georgia Gwinnett College yearly event Science Technology and Reseach Symposium (STaRS)
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -45,10 +45,10 @@ header_pages:
 
 # Page default value
 defaults:
-  home:
-      heading: "STaRS 2023 is on April 13th, 12pm-3:15pm"
-      subheading: "Welcome to the Science Technology and Research Symposium (STaRS) organized by the School of Science and Technology at Georgia Gwinnett College"
-      banner: "/assets/images/stars-logo-green-right.png"
+  stars:
+    heading: "STaRS 2024 is on April 11,  12pm-3pm"
+    subheading: "Welcome to the Science Technology and Research Symposium (STaRS) organized by the School of Science and Technology at Georgia Gwinnett College"
+    banner: "/assets/images/stars-logo-green-right3.png"
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
