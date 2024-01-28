@@ -53,6 +53,13 @@ jobs:
           path: _site/archive-stars2022
           submodules: 'true'
 
+      - name: Checkout 2023 archive branch 🛎️
+        uses: actions/checkout@v3
+        with:
+          ref: gh-pages-stars2023
+          path: _site/archive-stars2023
+          submodules: 'true'
+
       - name: Remove archive git repo ❌
         run: rm -rf _site/archive-stars202?/.git
 
