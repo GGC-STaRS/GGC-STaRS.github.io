@@ -1,6 +1,13 @@
 # GGC STaRS Website 
 
-## Instructions for updating content for new STaRS event year:
+Produces the website for the yearly Science Technology and Reseach
+Symposium (STaRS) symposium event at Georgia Gwinnett College. It
+holds blog-style posts and can also generate individual pages for each
+poster submission from a CSV file
+(see
+[2021 poster archive](https://ggc-stars.github.io/archive-stars2021/posters/)).
+
+## Instructions for updating content for a new STaRS event:
 
 You can change all the files on the Github site, you don't need to
 clone the repository to your computer. Once you commit a change, click
