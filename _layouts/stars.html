@@ -17,7 +17,7 @@ sidebar: category-list
 
   {{ content }}
 
-  {% assign posts_no_posters = site.categories.stars2024 |
+  {% assign posts_no_posters = site.categories[site.label] |
   where_exp: "post", "post.categories != 'posters'" |
   where_exp: "post", "post.categories[0] != 'posters'" |
   where_exp: "post", "post.categories[1] != 'posters'"
