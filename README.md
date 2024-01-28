@@ -11,7 +11,7 @@ generate individual pages for each poster submission from a CSV file
 
 You can change all the files on the Github site, you don't need to
 clone the repository to your computer. Once you commit a change, click
-on the [Actions tab](/GGC-STaRS/GGC-STaRS.github.io/actions) on the
+on the [Actions tab](//GGC-STaRS/GGC-STaRS.github.io/actions) on the
 top of this page to watch the process to update the published
 website. It should take 3-5 minutes. If it succeeds, you can refresh
 the [website](https://ggc-stars.github.io/) to see your changes. If
