@@ -53,9 +53,8 @@ an [Issue](https://github.com/GGC-STaRS/GGC-STaRS.github.io/issues).
 
 ## Archiving past year's site (for admins)
 
-Follow
-[this article](https://medium.com/me/stats/post/cd7bf330f971). Except
-that our Github Actions workflow is newer.
+Follow [this article](https://medium.com/p/cd7bf330f971). Except that
+our Github Actions workflow is newer.
 
 ## Other details
 
