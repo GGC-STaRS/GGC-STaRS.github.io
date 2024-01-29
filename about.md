@@ -66,7 +66,7 @@ The School of Science and Technology (SST) at GGC is creating a diverse communit
 
 Read the SST dean's message for STaRS 2023 <a href= "https://ggc-stars.github.io/stars2023/update/2023/02/22/deans-message.html">here! </a>
 
-![SST collage](/assets/images/sst-image-fb.jpg "A collage of SST faculty and students")
+![SST collage]({{ '/assets/images/sst-image-fb.jpg' | relative_url }} "A collage of SST faculty and students")
 
 <!-- lightgallery -->
   <script src="https://cdn.jsdelivr.net/lightgallery/1.3.7/js/lightgallery.min.js"></script>
