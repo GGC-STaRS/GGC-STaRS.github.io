@@ -45,8 +45,8 @@ The STaRS event is organized by the [School of Science and Technology](https://w
     <div id="slideshow">
       {% for photo in page.photos %}
       <div class="pictures">
-        <a  id="lightgallery" href="/assets/images/slideshow/{{ photo }}">
-          <img src="/assets/images/slideshow/{{ photo }}">
+        <a  id="lightgallery" href="{{ site.baseurl }}/assets/images/slideshow/{{ photo }}">
+          <img src="{{ site.baseurl }}/assets/images/slideshow/{{ photo }}">
         </a>
       </div>
 
