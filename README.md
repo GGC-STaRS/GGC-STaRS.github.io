@@ -51,6 +51,12 @@ Contact [@cengique](https://github.com/cengique) (or cgunay AT
 ggc.edu) for questions or create
 an [Issue](https://github.com/GGC-STaRS/GGC-STaRS.github.io/issues).
 
+## Archiving past year's site (for admins)
+
+Follow
+[this article](https://medium.com/me/stats/post/cd7bf330f971). Except
+that our Github Actions workflow is newer.
+
 ## Other details
 
 This site generated via the [Jekyll](https://jekyllrb.com/) static
