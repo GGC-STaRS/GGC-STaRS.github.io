@@ -54,7 +54,7 @@ Note: <b>Live presentations of posters are preferred over pre-recorded videos of
         <li style="list-style-type: 'P{{ poster["id"] }}. '">
             <span class="post-meta">{{ poster["students"] }} - supervised by {{ poster["advisor"] }}</span><br>
             <span>
-                <a class="post-link" href="{{ poster["group"] | datapage_url: '/stars2021/posters' }}">
+                <a class="post-link" href="{{ poster["group"] | datapage_url: '/posters' | relative_url }}">
                 {{ poster["group"] | escape }}
                 </a>
             </span><br>

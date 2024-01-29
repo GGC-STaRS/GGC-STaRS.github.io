@@ -60,7 +60,7 @@ The School of Science and Technology (SST) at GGC is creating a diverse communit
 
 [Read the SST dean's message for STaRS 2021 here!](/stars2021/update/2021/04/02/deans-message.html)
 
-![SST collage](/assets/images/sst-image-fb.jpg "A collage of SST faculty and students")
+![SST collage]({{ '/assets/images/sst-image-fb.jpg' | relative_url }} "A collage of SST faculty and students")
 
 <!-- lightgallery -->
   <script src="https://cdn.jsdelivr.net/lightgallery/1.3.7/js/lightgallery.min.js"></script>
