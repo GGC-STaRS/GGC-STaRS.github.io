@@ -21,6 +21,7 @@ copyright: Copyright © 2024. Customized by <a href="https://github.com/cengique
 description: >- # this means to ignore newlines until "url:"
   Georgia Gwinnett College yearly event Science Technology and Reseach Symposium (STaRS)
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # if hosting in subfolder 
 twitter_username: jekyllrb
 github_username:  jekyll
 repository:  GGC-STaRS/GGC-STaRS.github.io  # needed for the Github Pages workflow action
