@@ -20,7 +20,7 @@ Please follow the formatting in the sample poster abstract (e.g. full first and 
 </li>
 <li>
 Important Deadlines: <br>
-Please use this google form: (Will be Uploaded soon). <br>Please note the deadline to submit the Poster is March 3, 2024 
+Please use this google form: (Will be Uploaded soon). <br>Deadline to submit the Poster is March 3, 2024 
 </li>
 </ul>
 
@@ -35,10 +35,18 @@ Please use this google form: (Will be Uploaded soon). <br>Please note the deadli
 </ul>
    
 
-#### * Judging Volunteers
-SST Faculty, please help us judging the posters by <a href= "https://forms.gle/7k9ojqU2wrimASQL9"> completing this form.</a>
-
-<h3>✨Winners of 2022 STaRS Poster Competition✨</h3>
+#### * SAMPLE ABSTRACT – STARS 2024 EVENT
+<ul><h4>Abstract Guidelines </h4> </ul>
+<br>
+Poster title should in in ALL CAPS. 
+<br>
+Author name(s) should be full first and last name with middle initial. 
+<br>
+Abstract has a 300-word limit. 
+<br>
+Please use: Arial font (size 12). 
+<br>
+Abstracts should include a summary of the introduction, methods, results, and conclusions of the project. 
 
 #### * First Place
 [Investigating the Presence of GMO Markers P35S and CP4 EPSPS in Popular Soy Based Formulas](/stars2023/images/2022STaRSFirstPlace.pdf)   
