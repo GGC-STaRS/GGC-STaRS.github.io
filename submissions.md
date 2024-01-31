@@ -11,23 +11,31 @@ permalink: /submissions/
 
 #### * Poster Submission 
 <ul>
-<li>Step1: Please register your poster <a href="https://forms.gle/iHcEvjUf77Ki2guH7"> using this google form </a> by March 3rd (extended to Friday March 17). 
+<li>Only GGC Faculty Members can register a poster for the STARS event 
 </li>
 
 <li>
-Step2: Submit an electronic version(PDF) of the poster to <a href="https://ggc.view.usg.edu/d2l/home/2559976"> this D2L site. </a> <br/>
-Note: Poster dimensions should be 48” x 36”.
+Please follow the formatting in the sample poster abstract (e.g. full first and last name) listed on the STARS website <br>
+   Note: Poster dimensions should be 48” x 36”.
 </li>
 <li>
 Important Deadlines: <br>
-Posters that will be printed by the SST office need to be in the D2L site by 3/31/2023 @ 5pm.  <br>
-Posters that will be printed by the faculty advisors still need to be electronically uploaded into the D2L site by 4/10/2023 @ 8am. <br>
+Please use this google form: (Will be Uploaded soon). <br>Please note the deadline to submit the Poster is March 3, 2024 
+</br>
+</li>
 </li>
 </ul>
 
-#### * Faculty/Student Activity Submission
-Please make sure that ONLY 1 member (faculty or student) of the student group, club, or organization completes the registration. <br/> 
-Register your activity <a href="https://forms.gle/WSq4QG8gyEXdr6u99"> using this google form </a> by March 3rd.
+#### * SUBMIT YOUR POSTER FOR PRINTING
+<ul>
+   <li>Only GGC Faculty Members can submit a poster for the STARS event </li>
+   <li>Poster Dimension should by 48” x 36 “(Landscape view) </li>
+   <li>Please submit an electronic version of the poster to this D2L site: (In Progress) </li>
+   <li>Deadline to submit the posters is March 31, 2024, for posters that will be printed by the SST office.</li>
+   <br>
+   (Faculty that will print the posters themselves should still submitted the electronic versions (PDF) of the poster to the D2L site by April 9, 2024) 
+</ul>
+   
 
 #### * Judging Volunteers
 SST Faculty, please help us judging the posters by <a href= "https://forms.gle/7k9ojqU2wrimASQL9"> completing this form.</a>
