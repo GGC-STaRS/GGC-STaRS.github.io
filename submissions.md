@@ -35,7 +35,7 @@ Please use this google form: (Will be Uploaded soon). <br>Deadline to submit the
 </ul>
    
 #### * SAMPLE ABSTRACT – STARS 2024 EVENT
-<h5>Abstract Guidelines </h5> 
+<h4>Abstract Guidelines </h4> 
 <br>
 Poster title should in in ALL CAPS. 
 <br>
