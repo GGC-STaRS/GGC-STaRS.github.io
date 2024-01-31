@@ -21,8 +21,6 @@ Please follow the formatting in the sample poster abstract (e.g. full first and 
 <li>
 Important Deadlines: <br>
 Please use this google form: (Will be Uploaded soon). <br>Please note the deadline to submit the Poster is March 3, 2024 
-</br>
-</li>
 </li>
 </ul>
 
