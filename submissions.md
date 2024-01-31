@@ -34,9 +34,8 @@ Please use this google form: (Will be Uploaded soon). <br>Deadline to submit the
    (Faculty that will print the posters themselves should still submitted the electronic versions (PDF) of the poster to the D2L site by April 9, 2024) 
 </ul>
    
-
 #### * SAMPLE ABSTRACT – STARS 2024 EVENT
-<ul><h4>Abstract Guidelines </h4> </ul>
+<h5>Abstract Guidelines </h5> 
 <br>
 Poster title should in in ALL CAPS. 
 <br>
