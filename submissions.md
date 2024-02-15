@@ -20,7 +20,7 @@ Please follow the formatting in the sample poster abstract (e.g. full first and 
 </li>
 <li>
 Important Deadlines: <br>
-Please use this google form: (Will be Uploaded soon). <br>Deadline to submit the Poster is March 3, 2024 
+Please use this google form to register your Poster: <a href="https://forms.gle/iHcEvjUf77Ki2guH7"> Registeration Link </a> <br> Deadline to submit the Poster is March 3, 2024 
 </li>
 </ul>
 
