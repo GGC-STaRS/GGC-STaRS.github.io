@@ -17,16 +17,16 @@ permalink: /submissions/
 Please follow the formatting in the sample poster abstract (e.g. full first and last name) listed on the STARS website <br>
    Note: Poster dimensions should be 48” x 36”.
 </li>
-<li>
-<b>Important Deadlines:<b> <br>
-Poster judging volunteers:  3/22/23 @ 5pm (suggest 3/22/24) <br>
-Poster registration:  3/22/23 @ 5pm (suggest 3/22/24) <br>
-Activity registration:  3/22/23 @ 5pm (suggest 3/22/24)  <br>
-Poster submission to D2L for SST printing:  3/29/24 (suggest 3/29/24) keep until the 4/1/2024 <br>
-Poster submission to D2L if faculty printing:  4/8/24  <br>
-Please use this google form to register your Poster: <a href="https://forms.gle/iHcEvjUf77Ki2guH7"> Registeration Link </a> <br> Deadline to submit the Poster is March 3, 2024 
-</li>
-</ul>
+
+#### * Poster Submission Important Deadlines 
+
+<li>Poster judging volunteers:  3/22/23 @ 5pm (suggest 3/22/24) </li>
+<li>Poster registration:  3/22/23 @ 5pm (suggest 3/22/24) </li>
+<li>Activity registration:  3/22/23 @ 5pm (suggest 3/22/24)  </li>
+<li>Poster submission to D2L for SST printing:  3/29/24 (suggest 3/29/24) keep until the 4/1/2024 </li>
+<li>Poster submission to D2L if faculty printing:  4/8/24  </li>
+<li>Please use this google form to register your Poster: <a href="https://forms.gle/iHcEvjUf77Ki2guH7"> Registeration Link </a> </li><br>Deadline to submit the Poster is March 3, 2024 
+
 
 #### * SUBMIT YOUR POSTER FOR PRINTING
 <ul>
