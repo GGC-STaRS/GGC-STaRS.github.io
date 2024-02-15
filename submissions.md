@@ -8,7 +8,6 @@ permalink: /submissions/
 
 👏👏THANK YOU for being a part of our biggest student engagement event in SST!! 👏👏
    
-
 #### * Poster Submission 
 <ul>
 <li>Only GGC Faculty Members can register a poster for the STARS event 
@@ -19,7 +18,12 @@ Please follow the formatting in the sample poster abstract (e.g. full first and 
    Note: Poster dimensions should be 48” x 36”.
 </li>
 <li>
-Important Deadlines: <br>
+<b>Important Deadlines:<b> <br>
+Poster judging volunteers:  3/22/23 @ 5pm (suggest 3/22/24) <br>
+Poster registration:  3/22/23 @ 5pm (suggest 3/22/24) <br>
+Activity registration:  3/22/23 @ 5pm (suggest 3/22/24)  <br>
+Poster submission to D2L for SST printing:  3/29/24 (suggest 3/29/24) keep until the 4/1/2024 <br>
+Poster submission to D2L if faculty printing:  4/8/24  <br>
 Please use this google form to register your Poster: <a href="https://forms.gle/iHcEvjUf77Ki2guH7"> Registeration Link </a> <br> Deadline to submit the Poster is March 3, 2024 
 </li>
 </ul>
@@ -48,13 +52,10 @@ Please use: Arial font (size 12).
 Abstracts should include a summary of the introduction, methods, results, and conclusions of the project. 
 
 #### * First Place
-[Investigating the Presence of GMO Markers P35S and CP4 EPSPS in Popular Soy Based Formulas](/stars2023/images/2022STaRSFirstPlace.pdf)   
+Will be annouced after Event 
 
 #### * Second Place
-[NASA_MINDS Project: Structual Analysis Using Contactless Evaluation](/stars2023/images/2022STaRSSecondPlace.pdf) 
+Will be annouced after Event 
 
 #### * Third Place
-We have a tie last year for the third place. <br/>
-[Using Docking Studies to Determine Binding Interactions .... ](/stars2023/images/2022STaRSThirdPlaceTie1.pdf)   <br/>
-and <br/>
-[Creating a Digital Business Card to Share with People You Meet](/stars2023/images/2022STaRSThirdplaceTie2.pdf)  <br/>
+Will be annouced after Event 
