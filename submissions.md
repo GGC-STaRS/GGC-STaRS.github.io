@@ -9,7 +9,7 @@ permalink: /submissions/
 👏👏THANK YOU for being a part of our biggest student engagement event in SST!! 👏👏
    
 #### * Poster Submission 
-<ul>
+
 <li>Only GGC Faculty Members can register a poster for the STARS event 
 </li>
 
@@ -29,14 +29,14 @@ Please follow the formatting in the sample poster abstract (e.g. full first and 
 
 
 #### * SUBMIT YOUR POSTER FOR PRINTING
-<ul>
+
    <li>Only GGC Faculty Members can submit a poster for the STARS event </li>
    <li>Poster Dimension should by 48” x 36 “(Landscape view) </li>
    <li>Please submit an electronic version of the poster to this D2L site: (In Progress) </li>
    <li>Deadline to submit the posters is March 31, 2024, for posters that will be printed by the SST office.</li>
    <br>
    (Faculty that will print the posters themselves should still submitted the electronic versions (PDF) of the poster to the D2L site by April 9, 2024) 
-</ul>
+
    
 #### * SAMPLE ABSTRACT – STARS 2024 EVENT
 <h4>Abstract Guidelines </h4> 
